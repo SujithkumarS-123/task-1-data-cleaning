@@ -38,7 +38,7 @@ Netflix Movies and TV Shows dataset.
 ## Files
 
 - `netflix_titles.csv` — Original raw dataset
-- `cleaned_netflix_titles.csv` — Cleaned dataset
+- `netflix_cleaned_final.csv` — Cleaned dataset
 - `Task_1_Data_Cleaning.ipynb` — Python/Pandas data-cleaning process in Google Colab
 
 ## Outcome
